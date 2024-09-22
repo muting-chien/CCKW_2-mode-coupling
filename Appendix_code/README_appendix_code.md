@@ -5,9 +5,11 @@ This directory contains analyses and figures used for appendix A (aquaplanet sim
 
   Calculate and plot the corresponding KW composite using ERA5 data, and compare with aquaplanet simulation results in the main figures
 
+
 (2) Paper4_appendixBCD_all-nudging-exp.ipynb: 
 
   Calculate and plot KW diagnostic in nudging experiments (plot all experiments together)
+
 
 (3) Check_KW-individual-nudging-exp.ipynb: 
 
