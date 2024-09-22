@@ -1,4 +1,4 @@
-This directory contains analyses and figures used for appendix A (aquaplanet simulations vs. ERA5) and BCD (different nudging experiments).
+This directory contains analyses and figures used for appendix A (aquaplanet simulations vs. ERA5) and BCD (different nudging experiments) with the following files:
 
 (1) Paper4_figure6_appendixA_vsERA5.ipynb: calculate and plot the corresponding KW composite using ERA5 data, and compare with aquaplanet simulation results in the main figures
 
